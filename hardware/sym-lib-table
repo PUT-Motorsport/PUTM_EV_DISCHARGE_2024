@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DBR72410")(type "KiCad")(uri "${KIPRJMOD}/footprints/KiCad/DBR72410.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DBR72410
+#/496877/1323940/2.50/4/3/Relay or Contactor
+DEF DBR72410 K 0 30 Y Y 1 F N
+F0 "K" 850 700 50 H V L CNN
+F1 "DBR72410" 850 600 50 H V L CNN
+F2 "DBR72410" 850 500 50 H I L CNN
+F3 "https://www.cynergy3.com/sites/default/files/cynergy3-d-v3.pdf" 850 400 50 H I L CNN
+F4 "SPST-NC Reed Relay, 3 A, 24V dc" 850 300 50 H I L CNN "Description"
+F5 "18.5" 850 200 50 H I L CNN "Height"
+F6 "" 850 100 50 H I L CNN "Mouser Part Number"
+F7 "" 850 0 50 H I L CNN "Mouser Price/Stock"
+F8 "Sensata" 850 -100 50 H I L CNN "Manufacturer_Name"
+F9 "DBR72410" 850 -200 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COM 1 0 0 200 R 50 50 0 0 P
+X NC 2 1000 0 200 L 50 50 0 0 N
+X COIL- 3 500 -700 200 U 50 50 0 0 P
+X COIL+ 4 500 700 200 D 50 50 0 0 P
+P 5 0 1 6 200 500 800 500 800 -500 200 -500 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library

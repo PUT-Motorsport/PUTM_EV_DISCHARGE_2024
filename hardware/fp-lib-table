@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DBR72410_imported_fp")(type "KiCad")(uri "${IMPORTED_FOOTPRINTS}/KiCad")(options "")(descr ""))
+)

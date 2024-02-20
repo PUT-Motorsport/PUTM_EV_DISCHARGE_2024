@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DBR72410
+D SPST-NC Reed Relay, 3 A, 24V dc
+K
+F https://www.cynergy3.com/sites/default/files/cynergy3-d-v3.pdf
+$ENDCMP
+#
+#End Doc Library
