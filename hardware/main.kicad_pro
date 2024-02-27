@@ -177,7 +177,11 @@
         0.2,
         0.4,
         0.6,
-        0.8
+        0.8,
+        1.3,
+        1.4,
+        1.5,
+        5.0
       ],
       "via_dimensions": [
         {
@@ -430,7 +434,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "main.kicad_pro",
     "version": 1
   },
   "net_settings": {

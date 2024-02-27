@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "DBR72410_imported_fp")(type "KiCad")(uri "${IMPORTED_FOOTPRINTS}/KiCad")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/KiCad")(options "")(descr ""))
+  (lib (name "Connector_Wire")(type "KiCad")(uri "${KIPRJMOD}/Libs/Connector_Wire.pretty")(options "")(descr ""))
+  (lib (name "TKH45P5K00FE-TR")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/TKH45P5K00FE-TR")(options "")(descr ""))
 )

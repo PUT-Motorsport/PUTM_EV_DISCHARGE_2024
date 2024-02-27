@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TKH45P5K00FE-TR
+#/1447188/1323940/2.50/3/4/Resistor
+DEF TKH45P5K00FE-TR R 0 30 Y Y 1 F N
+F0 "R" 650 300 50 H V L CNN
+F1 "TKH45P5K00FE-TR" 650 200 50 H V L CNN
+F2 "TKH45P50R0FETR" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/TKH45P5K00FE-TR.pdf" 650 0 50 H I L CNN
+F4 "Thick Film Resistors - SMD 5K ohms 1% 45W" 650 -100 50 H I L CNN "Description"
+F5 "1.01" 650 -200 50 H I L CNN "Height"
+F6 "588-TKH45P5K00FE-TR" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=588-TKH45P5K00FE-TR" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Arcol" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TKH45P5K00FE-TR" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
