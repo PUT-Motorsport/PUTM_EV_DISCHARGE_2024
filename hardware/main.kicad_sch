@@ -5,8 +5,9 @@
   (paper "A4")
 
   (title_block
+    (title "Discharge")
     (rev "${REVISION}")
-    (company "Author:")
+    (company "Author: Marco W. Santoro")
     (comment 1 "Reviewer:")
   )
 
