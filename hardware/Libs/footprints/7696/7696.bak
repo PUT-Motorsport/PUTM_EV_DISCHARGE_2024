@@ -54,7 +54,7 @@
     )
   )
   (symbol "PWR263S-35-5001F" (in_bom yes) (on_board yes)
-    (property "Reference" "PWR263S-35-5001F" (at 13.97 7.62 0)
+    (property "Reference" "R" (at -1.27 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "" (at 0 0 0)
@@ -75,12 +75,12 @@
         (stroke (width 0) (type default))
         (fill (type none))
       )
-    )
-    (symbol "PWR263S-35-5001F_1_1"
       (rectangle (start 0 5.08) (end 2.54 0)
         (stroke (width 0) (type default))
         (fill (type none))
       )
+    )
+    (symbol "PWR263S-35-5001F_1_1"
       (text "thermal" (at 3.81 2.54 900)
         (effects (font (size 0.7 0.7)))
       )
