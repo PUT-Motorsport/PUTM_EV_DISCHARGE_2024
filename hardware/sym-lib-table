@@ -3,4 +3,5 @@
   (lib (name "DBR72410")(type "Legacy")(uri "${KIPRJMOD}/Libs/footprints/KiCad/DBR72410.lib")(options "")(descr ""))
   (lib (name "TKH45P5K00FE-TR")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/TKH45P5K00FE-TR/TKH45P5K00FE-TR.kicad_sym")(options "")(descr ""))
   (lib (name "7696")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/7696/7696.kicad_sym")(options "")(descr ""))
+  (lib (name "Samacsys_kicad_sym")(type "KiCad")(uri "/home/michal/Downloads/PUTM_Kicad_Library/Samacsys_kicad_sym.kicad_sym")(options "")(descr ""))
 )
