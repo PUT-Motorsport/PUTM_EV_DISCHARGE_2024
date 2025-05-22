@@ -7,4 +7,5 @@
   (lib (name "d369-g33-xx")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/d369-g33-xx")(options "")(descr ""))
   (lib (name "Samacsys")(type "KiCad")(uri "/home/michal/Downloads/PUTM_Kicad_Library/Samacsys.pretty")(options "")(descr ""))
   (lib (name "Harwin_m80")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/Harwin_m80")(options "")(descr ""))
+  (lib (name "Cap")(type "KiCad")(uri "${KIPRJMOD}/Libs/footprints/Cap")(options "")(descr ""))
 )
